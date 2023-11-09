@@ -1,0 +1,41 @@
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ _id: undefined }\" (type Object) at path \"_id\" for model \"user\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{ _id: undefined }\"","value":{},"valueType":"Object"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{\n  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4'\n}\" (type Object) at path \"_id\" for model \"user\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{\n  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4'\n}\"","value":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4"},"valueType":"Object"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{\n  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4'\n}\" (type Object) at path \"_id\" for model \"user\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{\n  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4'\n}\"","value":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4"},"valueType":"Object"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{\n  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4'\n}\" (type Object) at path \"_id\" for model \"user\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{\n  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4'\n}\"","value":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4"},"valueType":"Object"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{\n  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4'\n}\" (type Object) at path \"_id\" for model \"user\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{\n  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4'\n}\"","value":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjE1YzYxZjJkZjJjYmU0YzVjNTkiLCJpYXQiOjE2OTk1MDQ2NjN9.qatqUjK4Mpp-Lno2NpNAO0Ys-qtMyuwjmdJjqJWUmD4"},"valueType":"Object"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"level":"error","message":"Account already exist with this email Id!"}
+{"level":"error","message":"Unauthorized"}
+{"level":"error"}
+{"level":"error","message":"Unauthorized"}
+{"level":"error"}
+{"level":"error","message":"Unauthorized"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"search\" (type string) at path \"_id\" for model \"blog\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"search\"","value":"search","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"search\" (type string) at path \"_id\" for model \"blog\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"search\"","value":"search","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"search\" (type string) at path \"_id\" for model \"blog\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"search\"","value":"search","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"search\" (type string) at path \"_id\" for model \"blog\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"search\"","value":"search","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"search\" (type string) at path \"_id\" for model \"blog\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"search\"","value":"search","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"search\" (type string) at path \"_id\" for model \"blog\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"search\"","value":"search","valueType":"string"}
+{"level":"error"}
+{"level":"error","message":"Unauthorized"}
+{"level":"error"}
